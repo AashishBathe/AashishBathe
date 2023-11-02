@@ -17,7 +17,7 @@
 </p>
 
 <div align="center">
->`Python-Developer` 🐍 | >`Blockchain-Developer` 🔗 | >`Open-Source` 🌐
+`Python Developer` 🐍 | `Blockchain Developer` 🔗 | `Open Source` 🌐
 </div>
 
 hi
