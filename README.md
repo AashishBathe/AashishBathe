@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img width="60%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=BF91F3&background=1A1B27&center=true&vCenter=true&duration=3000&pause=300&lines=<This+is+Aashish+Bathe!>;<Welcome+To+My+Page!>">
+  <img width="70%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&color=BF91F3&background=1A1B27&center=true&vCenter=true&duration=3000&pause=300&lines=<This+is+Aashish+Bathe!>;<Welcome+To+My+Page!>">
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -49,6 +49,3 @@
 
 <h2 align='center'>✨<i>Keep Coding!</i>✨</h2>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" alt="" />
-</p>
