@@ -20,3 +20,21 @@
   <kbd>Python Developer</kbd> 🐍 | <kbd>Blockchain Developer</kbd> 🔗 | <kbd>Open Source</kbd> 🌐
 </div>
 
+<h2 align="center">🔨 Languages, Frameworks & Tools 🔨</h2>
+<br>
+<div align="center">
+    <img alt="App Development" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" /> 
+    <img alt="Javascript" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img alt="Python" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img alt="Solidity" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
+    <img alt="Github" height ="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <img alt="Git" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img alt="Flutter" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> 
+    <img alt="Flask" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /> 
+    <img alt="Java" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img alt="C++" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+    <img alt="HTML5" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img alt="CSS" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img alt="VSCode" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</div>
+<br>
