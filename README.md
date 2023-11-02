@@ -38,3 +38,17 @@
     <img alt="VSCode" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
 <br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+
+<h2 align="center">🤝 Support</h2>
+<div align="center">
+ <p>💖 If you like what I do, Give me some ⭐'s and share it with your friends!</p>
+ <p>Made with ❤️ from India</p>   
+</div>
+
+<h2 align='center'>✨<i>Keep Coding!</i>✨</h2>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" alt="" />
+</p>
