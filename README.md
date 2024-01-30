@@ -12,12 +12,12 @@
     <img height="32" src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" alt="Aashish | Mail">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/LordShadow/">
-    <img height="33" src="[https://camo.githubusercontent.com/1eca2365da012b44816f2402011dc3ba78cefbe78228b22d60161a898d015b67/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313230302f312a4c75723972724a49547346526e7549595552596b53672e6a706567](https://static-00.iconduck.com/assets.00/leetcode-icon-1721x2048-ludgp8qf.png)" alt="Aashish | Leetcode" >
+    <img height="33" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="Aashish | Leetcode" >
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <div align="center">
-  <kbd>Python Developer</kbd> 🐍 | <kbd>Blockchain Developer</kbd> 🔗 | <kbd>Open Source</kbd> 🌐
+  <kbd>Python Developer</kbd> 🐍 | <kbd>Blockchain Developer</kbd> 🔗 | <kbd>Open Source</kbd> 🌐 | <kbd>Java Developer</kbd> ☕
 </div>
 
 <h2 align="center">🔨 Languages, Frameworks & Tools 🔨</h2>
@@ -31,11 +31,13 @@
     <img alt="Git" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img alt="Flutter" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> 
     <img alt="Flask" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /> 
-    <img alt="Java" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img alt="C++" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
     <img alt="HTML5" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img alt="CSS" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img alt="VSCode" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img alt="Java" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img alt="Spring Boot" height ="36px" src="https://vscjava.gallerycdn.vsassets.io/extensions/vscjava/vscode-spring-boot-dashboard/0.13.2023072200/1689984300042/Microsoft.VisualStudio.Services.Icons.Default" />
+    
 </div>
 <br>
 
@@ -48,4 +50,3 @@
 </div>
 
 <h2 align='center'>✨<i>Keep Coding!</i>✨</h2>
-
